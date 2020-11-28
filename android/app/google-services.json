@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607748559066",
+    "firebase_url": "https://chattery-3c255.firebaseio.com",
+    "project_id": "chattery-3c255",
+    "storage_bucket": "chattery-3c255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607748559066:android:7cbd2d7ee9d96603ac55e3",
+        "android_client_info": {
+          "package_name": "com.mhutshow.mew_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607748559066-9jotpsibdgrr84hu33ae2svche31mhtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBppcwOkKln2kHLrfcOE-Sf5hot9FdnLyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607748559066-9jotpsibdgrr84hu33ae2svche31mhtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
